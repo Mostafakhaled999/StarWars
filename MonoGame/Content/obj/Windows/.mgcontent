@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/MonoGame/MonoGame/Content/backgroundSpace_01.1.png</File>
+    <File>D:/MonoGame/MonoGame/Content/Nebula1.png</File>
+    <File>D:/MonoGame/MonoGame/Content/Nebula2.png</File>
+    <File>D:/MonoGame/MonoGame/Content/Nebula3.png</File>
+    <File>D:/MonoGame/MonoGame/Content/Stars.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0001.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0002.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0003.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0004.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0005.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0006.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0007.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0008.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0009.png</File>
+    <File>D:/MonoGame/MonoGame/Content/Bullet.png</File>
+    <File>D:/MonoGame/MonoGame/Content/Ship.png</File>
+    <File>D:/MonoGame/MonoGame/Content/bluefighter0005.png</File>
+    <File>D:/MonoGame/MonoGame/Content/rocket_1_0000.png</File>
+    <File>D:/MonoGame/MonoGame/Content/8B.png</File>
+    <File>D:/MonoGame/MonoGame/Content/1.png</File>
+    <File>D:/MonoGame/MonoGame/Content/6.png</File>
+    <File>D:/MonoGame/MonoGame/Content/8.png</File>
+    <File>D:/MonoGame/MonoGame/Content/12.png</File>
+    <File>D:/MonoGame/MonoGame/Content/File.spritefont</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0005 - Copy (2).png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0005 - Copy (3).png</File>
+    <File>D:/MonoGame/MonoGame/Content/redfighter0005 - Copy.png</File>
+    <File>D:/MonoGame/MonoGame/Content/bluejweel.png</File>
+    <File>D:/MonoGame/MonoGame/Content/redjweel.png</File>
+    <File>D:/MonoGame/MonoGame/Content/yellowjweel.png</File>
+  </SourceFiles>
+</SourceFileCollection>

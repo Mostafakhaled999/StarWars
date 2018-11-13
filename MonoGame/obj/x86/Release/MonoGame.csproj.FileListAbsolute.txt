@@ -1,0 +1,110 @@
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.exe
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.pdb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.Framework.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.DXGI.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XInput.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.Framework.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.DXGI.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XInput.xml
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+E:\Visual Studio\MonoGame\MonoGame\obj\x86\Release\MonoGame.csproj.CoreCompileInputs.cache
+E:\Visual Studio\MonoGame\MonoGame\obj\x86\Release\MonoGame.csproj.CopyComplete
+E:\Visual Studio\MonoGame\MonoGame\obj\x86\Release\MonoGame.exe
+E:\Visual Studio\MonoGame\MonoGame\obj\x86\Release\MonoGame.pdb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\8B.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\backgroundSpace_01.1.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\bluefighter0005.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Bullet.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Nebula1.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Nebula2.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Nebula3.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0001.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0002.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0003.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0004.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0006.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0007.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0008.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0009.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\rocket_1_0000.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Ship.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Stars.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\1.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\12.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\6.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\8.xnb
+E:\Visual Studio\MonoGame\MonoGame\obj\x86\Release\MonoGame.csprojAssemblyReference.cache
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\File.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005 - Copy (2).xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005 - Copy (3).xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005 - Copy.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\bluejweel.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redjweel.xnb
+E:\Visual Studio\MonoGame\MonoGame\bin\Windows\x86\Release\Content\yellowjweel.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\1.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\12.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\6.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\8.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\8B.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\backgroundSpace_01.1.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\bluefighter0005.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\bluejweel.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Bullet.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\File.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Nebula1.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Nebula2.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Nebula3.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0001.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0002.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0003.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0004.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005 - Copy (2).xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005 - Copy (3).xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005 - Copy.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0005.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0006.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0007.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0008.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redfighter0009.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\redjweel.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\rocket_1_0000.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Ship.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\Stars.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\Content\yellowjweel.xnb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.exe
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.pdb
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.Framework.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.DXGI.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XInput.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\MonoGame.Framework.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.DXGI.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.XInput.xml
+D:\MonoGame\MonoGame\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+D:\MonoGame\MonoGame\obj\x86\Release\MonoGame.csprojAssemblyReference.cache
+D:\MonoGame\MonoGame\obj\x86\Release\MonoGame.csproj.CoreCompileInputs.cache
+D:\MonoGame\MonoGame\obj\x86\Release\MonoGame.csproj.CopyComplete
+D:\MonoGame\MonoGame\obj\x86\Release\MonoGame.exe
+D:\MonoGame\MonoGame\obj\x86\Release\MonoGame.pdb
